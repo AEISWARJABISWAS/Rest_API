@@ -1,0 +1,20 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app1.js",
+    "dev": "nodemon app1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.0",
+    "mongoose": "^8.3.5",
+    "nodemon": "^3.1.0"
+  }
+}
